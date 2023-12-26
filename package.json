@@ -1,0 +1,26 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BhavinKhatri/quickstart-hugo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BhavinKhatri/quickstart-hugo/issues"
+  },
+  "homepage": "https://github.com/BhavinKhatri/quickstart-hugo#readme",
+  "devDependencies": {
+    "hugo-installer": "^4.0.1"
+  },
+  "dependencies": {
+    "@filipecarneiro/hugo-bootstrap-theme": "^1.0.32"
+  }
+}
